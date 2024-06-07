@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Hi, guys 🖖 I'm <a href="https://www.linkedin.com/in/leosouzv/"><i>Leonardo</i></a> or just zabu 😁</h1>
+  <h1 align="center">Hi, guys 🖖 I'm Leonardo or just bling 😁</h1>
   <p align="center">I'm a Java Full Stack developer Junior graduated at <a href="https://brazil.generation.org/"><i>Generation Brazil</i></a>. Now I'm studying Cyber Defense at <a href="https://www.fiap.com.br/"><i>FIAP</i></a> and focusing my studies mainly on networks, OS, Python, ShellScript and other content that involves Cybersecurity.</p>
   <p align="center">I'm passionate about technology in general, mainly programming and cybersecurity.</p>
 </div>
@@ -27,11 +27,6 @@
   <img align="center" alt="php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />                    
 </div><br>
-
-<div align="center">
-  <h3 align="center">Where to find me 📱</h3>
-  <a href="https://www.linkedin.com/in/leosouzv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
 <!---
 1r4mos/1r4mos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
