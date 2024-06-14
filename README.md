@@ -1,7 +1,6 @@
 <div>
   <h1 align="center">Hi, guys 🖖 I'm Leonardo or just bolt</h1>
   <p align="center">I'm a Java Full Stack developer Junior graduated at <a href="https://brazil.generation.org/"><i>Generation Brazil</i></a>. Now I'm studying Cyber Defense at <a href="https://www.fiap.com.br/"><i>FIAP</i></a> and focusing my studies mainly on networks, OS, Python, ShellScript and other content that involves Cybersecurity.</p>
-  <p align="center">I'm passionate about technology in general, mainly programming and cybersecurity.</p>
 </div>
 
 <div align="center">
