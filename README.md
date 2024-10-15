@@ -2,12 +2,12 @@
  <img src="https://github.com/1r4mos/1r4mos/blob/main/itachi.jpg"   width="500"  align="left">
   <p float="left">
     <samp>
-      Hi! 
+      Hi, there! 
       <br>
       <br>
       about me:<br>
              - he/him, brazilian, pt-br + eng <br>
-             - computer science student<br>
+             - systems analysis and development student<br>
              - cybersecurity enthusiastic<br>
       <br>
       <br>
