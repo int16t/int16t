@@ -12,7 +12,7 @@
       <br>
       <br>
       langs:<br>
-          > java, python, typescript, c/c++, bash, powershell.
+          > c, java, python, bash, powershell.
       <br>
       <br>
       os:<br>
