@@ -7,7 +7,7 @@
       <br>
       about me:<br>
              - he/him, brazilian, pt-br + eng <br>
-             - systems analysis and development student<br>
+             - cyber defense student<br>
              - cybersecurity enthusiastic<br>
       <br>
       <br>
