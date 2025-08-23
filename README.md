@@ -22,8 +22,10 @@
      frameworks:<br>
        > Springboot, React, Angular
      <br>
-     contact<br>
+     <br>
+     contact:<br>
      U can reach me at gy4ra@protonmail.com
+     <br>
      <br>
     </samp>
   </p>
