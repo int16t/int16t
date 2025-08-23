@@ -7,7 +7,7 @@
       <br>
       about me:<br>
              - he/him, brazilian, pt-br + eng <br>
-             - cyber defense student<br>
+             - cyber defense/computer science student<br>
              - cybersecurity enthusiastic<br>
       <br>
       <br>
@@ -16,7 +16,7 @@
       <br>
       <br>
       os:<br>
-        > win11 with 2 vms: Kali + Ubuntu.
+        > mainly win 11 with vms.
       <br>
       <br>
      <br>
