@@ -19,6 +19,11 @@
         > mainly win 11 with vms.
       <br>
       <br>
+     frameworks:<br>
+       > Springboot, React, Angular
+     <br>
+     contact<br>
+     U can reach me at gy4ra@protonmail.com
      <br>
     </samp>
   </p>
