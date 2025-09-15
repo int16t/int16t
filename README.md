@@ -8,7 +8,8 @@
       about me:<br>
              - he/him, brazilian, pt-br + eng <br>
              - cyber defense/computer science student<br>
-             - cybersecurity enthusiastic<br>
+             - love programming<br>
+             - cybersecurity n00b<br>
       <br>
       <br>
       langs:<br>
