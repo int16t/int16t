@@ -17,7 +17,7 @@
       <br>
       <br>
       os:<br>
-        > mainly win 11 with vms.
+        > mainly arch with vms.
       <br>
       <br>
      frameworks:<br>
