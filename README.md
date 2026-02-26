@@ -24,8 +24,6 @@
        > Springboot, React, Angular
      <br>
      <br>
-     contact:<br>
-       > U can reach me at x1sume@keemail.me
      <br>
      <br>
     </samp>
