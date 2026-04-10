@@ -1,31 +1,53 @@
-<p float="left">
- <img src="https://github.com/int16t/int16t/blob/main/IMG_2041.jpg" width="500"  align="left">
-  <p float="left">
-    <samp>
-      Hi, there! 
-      <br>
-      <br>
-      about me:<br>
-             - he/him, brazilian, pt-br + eng <br>
-             - cyber defense/computer science student<br>
-             - love programming<br>
-             - cybersecurity n00b<br>
-      <br>
-      <br>
-      langs:<br>
-          > c, java, python, bash, powershell.
-      <br>
-      <br>
-      os:<br>
-        > mainly arch with vms.
-      <br>
-      <br>
-     frameworks:<br>
-       > Springboot, React, Angular
-     <br>
-     <br>
-     <br>
-     <br>
-    </samp>
-  </p>
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=284b52&height=115&section=header"/>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=int16t&theme=transparent&background=0d1117&border=30A3DC&dates=FFF">
+</div>
+<div align="center">
+<img src="https://github-readme-stats-lime-ten-54.vercel.app/api?username=int16t&show_icons=true&hide=contribs&theme=transparent&layout=compact&hide_border=true&bg_color=0d1117&icons_color=9b9c9e"/>
+<img src="https://github-readme-stats-lime-ten-54.vercel.app/api/top-langs/?username=int16t&layout=compact&count_weight=0&exclude_repo=scripts,calendar_c,beecrowd,Obsidian,github-readme-stats&hide=html,css,php,Makefile,shell,Powershell,nvmrc,r,mako,Jupyter&theme=transparent&hide_border=true&bg_color=0d1117">
+</div>
+
+## 🧠 Skills
+
+<div align="center">
+    <img src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+    <img src="https://img.shields.io/badge/Assembly-35495E?style=for-the-badge&logo=assemblyscript&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Shell_Script-4B4B4B?style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-0f0d14?style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0"/>
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Red_Team-black?style=for-the-badge&logo=null&logoColor=white" />
+    <img src="https://img.shields.io/badge/C2-black?style=for-the-badge&logo=null&logoColor=white" />
+    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</div>
+
+## 💻 Projects
+
+<div align="center" style="border: 1px solid #e4e2e2; border-radius: 7px; padding: 10px;">
+   <a href="https://github.com/int16t/Anomalyzer">
+       <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=int16t&repo=Anomalyzer&show_owner=true&theme=transparent&hide_border=true&bg_color=0d1117" alt="Readme Card" />
+   </a>
+     
+   <a href="https://github.com/int16t/Backend-Fase-1">
+       <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=int16t&repo=Backend-Fase-1&show_owner=true&theme=transparent&hide_border=true&bg_color=0d1117" />
+   </a>
+   
+   <a href="https://github.com/int16t/Programming">
+       <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=int16t&repo=Programming&show_owner=true&theme=transparent&hide_border=true&bg_color=0d1117" />
+   </a>
+   
+   <a href="https://github.com/int16t/Parser-PE">
+       <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=int16t&repo=Parser-PE&show_owner=true&theme=transparent&hide_border=true&bg_color=0d1117" />
+   </a>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=284b52&height=120&section=footer"/>
