@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
-## 💻 Projects
+## 💻 Last Projects
 
 <div align="center" style="border: 1px solid #e4e2e2; border-radius: 7px; padding: 10px;">
    <a href="https://github.com/int16t/Anomalyzer">
@@ -41,8 +41,8 @@
        <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=int16t&repo=Backend-Fase-1&show_owner=true&theme=transparent&hide_border=true&bg_color=0d1117" />
    </a>
    
-   <a href="https://github.com/int16t/Programming">
-       <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=int16t&repo=Programming&show_owner=true&theme=transparent&hide_border=true&bg_color=0d1117" />
+   <a href="https://github.com/int16t/Hermes">
+       <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=int16t&repo=Hermes&show_owner=true&theme=transparent&hide_border=true&bg_color=0d1117" />
    </a>
    
    <a href="https://github.com/int16t/Parser-PE">
