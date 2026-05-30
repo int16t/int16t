@@ -34,19 +34,19 @@
 
 <div align="center" style="border: 1px solid #e4e2e2; border-radius: 7px; padding: 10px;">
    <a href="https://github.com/int16t/Anomalyzer">
-       <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=int16t&repo=Anomalyzer&show_owner=true&theme=transparent&hide_border=true&bg_color=0d1117" alt="Readme Card" />
+       <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=leorxmos&repo=Anomalyzer&show_owner=true&theme=transparent&hide_border=true&bg_color=0d1117" alt="Readme Card" />
    </a>
      
    <a href="https://github.com/int16t/Backend-Fase-1">
-       <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=int16t&repo=Backend-Fase-1&show_owner=true&theme=transparent&hide_border=true&bg_color=0d1117" />
+       <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=leorxmos&repo=Backend-Fase-1&show_owner=true&theme=transparent&hide_border=true&bg_color=0d1117" />
    </a>
    
    <a href="https://github.com/int16t/Hermes">
-       <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=int16t&repo=Hermes&show_owner=true&theme=transparent&hide_border=true&bg_color=0d1117" />
+       <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=leorxmos&repo=Hermes&show_owner=true&theme=transparent&hide_border=true&bg_color=0d1117" />
    </a>
    
    <a href="https://github.com/int16t/Parser-PE">
-       <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=int16t&repo=Parser-PE&show_owner=true&theme=transparent&hide_border=true&bg_color=0d1117" />
+       <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=leorxmos&repo=Parser-PE&show_owner=true&theme=transparent&hide_border=true&bg_color=0d1117" />
    </a>
 </div>
 
