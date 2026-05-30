@@ -4,8 +4,8 @@
 <img src="https://streak-stats.demolab.com/?user=int16t&theme=transparent&background=0d1117&border=30A3DC&dates=FFF">
 </div>
 <div align="center">
-<img src="https://github-readme-stats-lime-ten-54.vercel.app/api?username=int16t&show_icons=true&hide=contribs&theme=transparent&layout=compact&hide_border=true&bg_color=0d1117&icons_color=9b9c9e"/>
-<img src="https://github-readme-stats-lime-ten-54.vercel.app/api/top-langs/?username=int16t&layout=compact&count_weight=0&exclude_repo=scripts,calendar_c,beecrowd,Obsidian,github-readme-stats&hide=html,css,php,Makefile,shell,Powershell,nvmrc,r,mako,Jupyter&theme=transparent&hide_border=true&bg_color=0d1117">
+<img src="https://github-readme-stats-lime-ten-54.vercel.app/api?username=leorxmos&show_icons=true&hide=contribs&theme=transparent&layout=compact&hide_border=true&bg_color=0d1117&icons_color=9b9c9e"/>
+<img src="https://github-readme-stats-lime-ten-54.vercel.app/api/top-langs/?username=leorxmos&layout=compact&count_weight=0&exclude_repo=scripts,calendar_c,beecrowd,Obsidian,github-readme-stats&hide=html,css,php,Makefile,shell,Powershell,nvmrc,r,mako,Jupyter&theme=transparent&hide_border=true&bg_color=0d1117">
 </div>
 
 ## 🧠 Skills
