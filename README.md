@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=284b52&height=115&section=header"/>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=int16t&theme=transparent&background=0d1117&border=30A3DC&dates=FFF">
+<img src="https://streak-stats.demolab.com/?user=leorxmos&theme=transparent&background=0d1117&border=30A3DC&dates=FFF">
 </div>
 <div align="center">
 <img src="https://github-readme-stats-lime-ten-54.vercel.app/api?username=leorxmos&show_icons=true&hide=contribs&theme=transparent&layout=compact&hide_border=true&bg_color=0d1117&icons_color=9b9c9e"/>
